@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate .NET developer from Poland</h3>
-<img align="right" alt="coding" Width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h1 align="center">Hi 👋, I'm Luke</h1>
+<h3 align="center">A passionate Full stack developer from Poland</h3>
+<img align="right" alt="coding" Width="400" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://pixabay.com/illustrations/ai-generated-man-programmer-8684869/)">
 
-- 🔭 I’m currently working on [CS2](https://github.com/TheLukCraft/cs2)
-
-- 🌱 I’m currently learning **TypeScript, Angular, Azure**
+- 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 All of my projects are available at [www.capala.pl](www.capala.pl)
 
-- 💬 Ask me about **ASP.NET Core**
+- 💬 Ask me about **.NET or Angular**
 
-- 📫 How to reach me **lukaszcapala97@gmail.com**
+- 📫 How to reach me **lukasz@capala.pl**
 
 - 📄 Know about my experiences [www.capala.pl/resume](www.capala.pl/resume)
 
